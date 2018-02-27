@@ -19,7 +19,7 @@
 
 <h2>Algorithm:</h2>
 <ul>
-  <li>Initialize standard inclusion statement to allow input/output and compiling via \<iostream\></li>
+  <li>Initialize standard inclusion statement to allow input/output and compiling via iostream</li>
 <li>Declare the namespace std to allow use of cin, cout, and endl</li>
 <li>Declare main function</li>
 <li>Within main function declare variables num1/num2/num3/average</li>
