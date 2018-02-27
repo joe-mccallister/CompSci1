@@ -1,7 +1,5 @@
-<h2>Problem Analysis:<h2>
-<p>
-  Problem: a program must be created which performs basic operations in declaring and initializing variables, arithmetic operations, and output in the program, while also compiling and running successfully. 
-</p>
+<h2>Problem Analysis:</h2>
+<p>Problem: a program must be created which performs basic operations in declaring and initializing variables, arithmetic operations, and output in the program, while also compiling and running successfully. </p>
 <p>
   Program must perform the following;
 </p>
